@@ -1,4 +1,4 @@
-# SQL-Music_Store_Analysis
+# SQL-Harmonic_Analytics
 
 In this project I have analyze the music playlist database, examined the dataset with SQL and help the store to understand & improvise its business growth by answering important questions.
 
